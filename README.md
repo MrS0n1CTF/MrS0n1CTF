@@ -2,7 +2,7 @@
 # 🦅 Hello World, I'm Mr-SonicTF 🛡️
 
 <p align="center">
-  <img src="https://github.com/MrS0n1CTF/MrS0n1CTF/blob/main/63de9ca93eaf4800543bc5a4-1750967096132.png?raw=true" width="200" style="border-radius: 50%;">
+  <img src="avatar.png" width="200" style="border-radius: 50%;" alt="Mr-SonicTF Avatar">
 </p>
 
 <p align="center">
@@ -20,10 +20,12 @@
 
 ### 🎮 Professional Platforms
 <p align="left">
-  <a href="https://tryhackme.com/p/Mr-SonicTF"><img src="https://tryhackme-badges.s3.amazonaws.com/Mr-SonicTF.png" alt="TryHackMe Badge"></a>
+  <a href="https://tryhackme.com/p/Mr-SonicTF" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Mr-SonicTF.png" alt="TryHackMe Badge">
+  </a>
 </p>
 
-> **Certifications & Training**: Active on **HackTheBox** & **PortSwigger Academy**.
+> **Note**: You can also view my [TryHackMe Public Profile](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1699415).
 
 ---
 
@@ -31,9 +33,9 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | `Python` `C++` `GoLang` `Ruby` `PowerShell` `Assembly (x86/64)` |
-| **Reversing Tools** | `Ghidra` `x64dbg` `x32dbg` `IDA Pro` |
-| **Security** | `Metasploit` `Burp Suite` `Nmap` `Wireshark` |
+| **Languages** | `Python`, `PowerShell`, `C++`, `GoLang`, `Ruby`, `Assembly (x86/64)` |
+| **Reversing Tools** | `Ghidra`, `x64dbg`, `x32dbg`, `IDA Pro` |
+| **Security Platforms** | `TryHackMe`, `HackTheBox`, `PortSwigger Academy` |
 
 ---
 
