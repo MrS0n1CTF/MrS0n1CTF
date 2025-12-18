@@ -21,9 +21,9 @@
 ### 🎮 Professional Platforms
 <p align="left">
   <a href="https://tryhackme.com/p/Mr-SonicTF" target="_blank">
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1699415" style='border:none;'></iframe>
   </a>
-</p>
+</p>    
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1699415" style='border:none;'></iframe>
 
 > **Note**: You can also view my [TryHackMe Public Profile](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1699415).
 
