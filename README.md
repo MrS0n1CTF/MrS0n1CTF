@@ -2,12 +2,17 @@
 # 🦅 Hello World, I'm Mr-SonicTF 🛡️
 
 <p align="center">
-  <img src="63de9ca93eaf4800543bc5a4-1750967096132.png" align="center" width="200" height="200" style="border-radius: 50%; overflow: hidden; display: block;">
+  <img src="63de9ca93eaf4800543bc5a4-1750967096132.png" align="center" width="200" height="200" style="border-radius: 50%; overflow: hidden; display: block; border: 3px solid #36BCF7;">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Reverse+Engineer;Penetration+Tester;Exploit+Developer;Malware+Analyst" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <strong>Reverse Engineer | Penetration Tester | Exploit Developer</strong>
+  <a href="https://t.me/Mr_S0n1CTF">
+    <img src="https://img.shields.io/badge/Contact%20Me-Telegram-blue?style=flat-square&logo=telegram" alt="Telegram Status">
+  </a>
 </p>
 
 ---
@@ -22,12 +27,18 @@
 ### 🎮 Professional Platforms
 <p align="left">
   <a href="https://tryhackme.com/p/Mr-SonicTF" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Mr.S0n1CTF.png" alt="Your Image Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Mr-SonicTF.png" alt="TryHackMe Badge" />
   </a>
 </p>
 
-
 > **Note**: You can also view my [TryHackMe Public Profile](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1699415).
+
+---
+
+### 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MrS0n1CTF/MrS0n1CTF/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+</p>
 
 ---
 
