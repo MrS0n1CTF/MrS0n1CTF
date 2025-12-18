@@ -2,7 +2,7 @@
 # 🦅 Hello World, I'm Mr-SonicTF 🛡️
 
 <p align="center">
-  <img src="avatar.png" width="200" style="border-radius: 50%;" alt="Mr-SonicTF Avatar">
+  <img src="63de9ca93eaf4800543bc5a4-1750967096132.png" width="200" style="border-radius: 50%;" alt="Mr-SonicTF Avatar">
 </p>
 
 <p align="center">
