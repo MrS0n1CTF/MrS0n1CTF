@@ -21,7 +21,7 @@
 ### 🎮 Professional Platforms
 <p align="left">
   <a href="https://tryhackme.com/p/Mr-SonicTF" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Mr-SonicTF.png" alt="TryHackMe Badge">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Mr.S0n1CTF.png" alt="Your Image Badge" />
   </a>
 </p>
 
